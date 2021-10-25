@@ -194,7 +194,7 @@ local DB = WPD:newDatabase({
 })
 ```
 
-Here you needa use the **Database URL** and the **secret key**.
+Here comes in use the **Database URL** and the **secret key**.
 The **secret key** goes first in the 3rd line.
 ```
 secret_key = "my cool secret key",
