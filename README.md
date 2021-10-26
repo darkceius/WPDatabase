@@ -53,7 +53,7 @@ def main():
       return jsonify({"message":"Pong!"})
     elif content['type'] == "stores":
       db = GetDB()
-      return str(db)
+      return json.dumps(db)
     elif content['type'] == "addkey":
       if not 'data' in content:
         return jsonify({"error":"Data is required.", "message":"ERROR"})
