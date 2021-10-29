@@ -20,7 +20,7 @@ Step 2. Inserting the files.
 - After you created a Python repl do the following steps:
 
 Inside the `main.py` file put this code:
-```
+```py
 #-- [Packages] --#
 from flask import Flask, request, jsonify
 import os
@@ -186,7 +186,7 @@ You will need the **Database URL** and the **secret key** for you to log-in the 
 
 Create a script inside **ServerScriptService** with the following code:
 
-```
+```lua
 local WPD = require(game:GetService("ServerStorage")['WPDatabase'])
 local DB = WPD:newDatabase({
 	secret_key = "[PLACE YOUR SECRET KEY HERE]",
