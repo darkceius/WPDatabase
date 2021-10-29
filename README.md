@@ -146,7 +146,7 @@ Create a new key, name it `secret` and put something in. (Something safe or else
 Click on `Add a new secret`. Step 3 is done.
 
 --------------------------
-Step 4. Running the flask server
+Step 4. Running a flask server
 
 Tap this big green `Run` button 
 
