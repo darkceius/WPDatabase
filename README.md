@@ -130,7 +130,7 @@ After doing so, inside Repl create a new file named `database.json`
 
 ![image](https://user-images.githubusercontent.com/74603733/138715482-afa85cc0-47ac-49de-a4cc-b83495c33624.png)
 
-When you created the `database.json` file, put this inside it:
+After you created the `database.json` file, put this inside it:
 ```json
 {}
 ```
