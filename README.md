@@ -159,11 +159,10 @@ Click the big green `Run` button
 
 ![image](https://user-images.githubusercontent.com/74603733/138716970-29c07285-62c4-48f9-9f95-79d299ee965f.png)
 
-When you clicked it, let Replit do it's work and wait...
-After some time your `Run` button probably turned in a grey `Stop` button. That's good.
+After you pressed it, wait...
+In 1-2 minute(s) your `Run` button probably turned in a gray `Stop` button. That's excellent.
 
 Now let's copy the URL of the database.
-
 Do you see this on the right side of the replit?
 
 ![image](https://user-images.githubusercontent.com/74603733/138717522-89b3cf52-5ca4-482d-ac6f-23a412a1257d.png)
