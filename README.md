@@ -2,7 +2,7 @@
 ## A Roblox-To-Webpage database using python & flask
 -------------
 
-# How To Setup The Flask Server:
+# How to setup the Flask webpage:
 
 Requirements:
 - Must have an [Replit](https://replit.com/~) account.
@@ -122,7 +122,7 @@ if __name__ == '__main__':
   app.run(host='0.0.0.0', debug=True)
 ```
 
-After putting the code inside `main.py` create a new file named `database.json`
+After doing so, inside Repl create a new file named `database.json`
 
 ![image](https://user-images.githubusercontent.com/74603733/138715380-839f80a5-c29d-4d59-84e8-cdc546cd0c59.png)
 
@@ -130,14 +130,14 @@ After putting the code inside `main.py` create a new file named `database.json`
 
 ![image](https://user-images.githubusercontent.com/74603733/138715482-afa85cc0-47ac-49de-a4cc-b83495c33624.png)
 
-When you created the `database.json` file put this inside it:
-```
+When you created the `database.json` file, put this inside it:
+```json
 {}
 ```
 
 ![image](https://user-images.githubusercontent.com/74603733/138715854-f6ae20a0-f342-43e7-8d22-eff7e17e0e20.png)
 
-Okay, you are now done with the files, now lets get to the running & secret key part
+Okay, now you're done with the file creating thingy, now lets get to the running & secret key part
 
 -----------------------------------
 Step 3. Secret Key
